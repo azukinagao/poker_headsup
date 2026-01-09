@@ -21,6 +21,7 @@ A simple command-line Texas Hold'em poker game written in Python.
 ```text
 python game.py
 
+## Notes
 This project was developed with the assistance of generative AI tools.
-
-Originally, I had only worked with Python in a procedural style. Through my research, I was introduced to object-oriented languages, and to better understand how classes are used, I created this project using Python with a class-based design.
+## Motivation
+Originally, I had only worked with Python in a procedural style. Through my research, I was introduced to object-oriented languages. To better understand how classes are used in practice, I created this project using a class-based design in Python.
